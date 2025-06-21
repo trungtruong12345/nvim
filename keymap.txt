@@ -10,6 +10,8 @@ d : delete
 
 u : undo
 
+C-r : redo
+
 x : cut the after word 
 
 o : insert new line and go to the insert mode
