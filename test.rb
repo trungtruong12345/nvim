@@ -10,5 +10,6 @@ end
   puts greet(name, "Doe")
 end
 
-
-
+def fullname
+  
+end
