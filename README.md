@@ -33,6 +33,7 @@ C-f : scroll down one page
 C-b : scroll up one page
 
 <space>fs : open sidebar
+C-w-w : switch between windows
 
 <space>fd : open find file
 
