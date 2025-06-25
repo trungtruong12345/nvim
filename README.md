@@ -44,3 +44,4 @@ n : next search result
 N : previous search result     
 :set nohlsearch : disable search highlight       
 
+<space>mn: open minimap
