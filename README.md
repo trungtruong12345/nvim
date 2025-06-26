@@ -45,3 +45,22 @@ N : previous search result
 :set nohlsearch : disable search highlight       
 
 <space>mn: open minimap
+
+:split   Horizontal split
+:vp
+C - w s 
+
+:vsplit   Vertical split
+:vs
+C - w v
+
+C - h j k l   Move to left/down/up/right window
+
+:close   Close current window
+C - w c
+
+:tabnew   Open new tab
+:tabclose   Close current tab
+gt / gT    Next / previous tab
+
+
